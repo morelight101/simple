@@ -1,0 +1,24 @@
+
+div, h1, input {
+    font-family: HelveticaNeue, Helvetica;
+    color: #777;
+    text-align: center;
+}
+
+.word-to-guess {
+    font-size: 60px;
+    line-height: 1.2em;
+    font-family: HelveticaNeue-UltraLight, Helvetica; 
+}
+
+@media (max-width: 768px) {
+    .example-clock {
+        font-size: 64px;
+    }
+}
+
+.letter-input, input {
+
+    font-size: 24px;
+    line-height: 1.5em;
+}
